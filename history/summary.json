@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4644,
-    "timeDay": 4422,
-    "timeWeek": 4644,
-    "timeMonth": 4644,
-    "timeYear": 4644,
+    "time": 4654,
+    "timeDay": 4579,
+    "timeWeek": 4654,
+    "timeMonth": 4654,
+    "timeYear": 4654,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1066,
-    "timeDay": 1033,
-    "timeWeek": 1066,
-    "timeMonth": 1066,
-    "timeYear": 1066,
+    "time": 1100,
+    "timeDay": 1150,
+    "timeWeek": 1100,
+    "timeMonth": 1100,
+    "timeYear": 1100,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test website down",
+    "url": "https://thissitedoestnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoestnotexist.koj.co.ico",
+    "slug": "test-website-down",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-23": 0
+    }
   }
 ]

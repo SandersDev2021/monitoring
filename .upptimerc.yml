@@ -13,7 +13,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: sandersdev2021.github.io/monitoring
-  # baseUrl: /your-repo-name
   baseUrl: /monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -24,17 +23,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-notifications:
-  env: 
-    NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
-    NOTIFICATION_EMAIL_FROM: ${{ secrets.NOTIFICATION_EMAIL_FROM }}
-    NOTIFICATION_EMAIL_TO: ${{ secrets.NOTIFICATION_EMAIL_TO }}
-    NOTIFICATION_EMAIL_SMTP_PORT: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PORT }}
-    NOTIFICATION_EMAIL_SMTP_HOST: ${{ secrets.NOTIFICATION_EMAIL_SMTP_HOST }}
-    NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.NOTIFICATION_EMAIL_SMTP_USERNAME }}
-    NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PASSWORD }}
-
-
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

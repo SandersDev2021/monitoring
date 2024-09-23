@@ -7,6 +7,8 @@ sites:
     url: https://www.sanders.co.id
   - name: Web Infra
     url: https://infra.satustop.co.id
+  - name: Test website down
+    url: https://thissitedoestnotexist.koj.co
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -30,6 +30,10 @@ sites:
   - name: SERVER DRC
     check: "tcp-ping"
     url: $SERVER_DRC_SANDERS
+
+  - name: SERVER DB BACKUP
+    check: "tcp-ping"
+    url: 147.139.186.128
     
   - name: SERVER EMAIL
     check: "tcp-ping"

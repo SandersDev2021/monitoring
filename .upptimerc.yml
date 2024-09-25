@@ -34,7 +34,7 @@ sites:
   - name: SERVER DB BACKUP
     check: "tcp-ping"
     url: $SERVER_DB_BK_SANDERS
-    port: 53
+    port: 3306
     
   - name: SERVER EMAIL
     check: "tcp-ping"
@@ -42,7 +42,8 @@ sites:
 
   - name: OFFICE SANDERS
     check: "tcp-ping"
-    url: 103.176.227.196
+    url: $IP_PUBLIC_OFFICE_SANDERS
+    port: 8003
   
     
 status-website:

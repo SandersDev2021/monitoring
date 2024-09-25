@@ -26,10 +26,6 @@ sites:
   - name: SERVER BACKEND
     check: "tcp-ping"
     url: $SERVER_BACKEND_SANDERS
-
-  - name: SERVER DB BACKUP
-    check: "tcp-ping"
-    URL: 147.139.186.128
   
   - name: SERVER DRC
     check: "tcp-ping"

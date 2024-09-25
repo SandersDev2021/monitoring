@@ -35,7 +35,7 @@ sites:
     check: "tcp-ping"
     url: $SERVER_EMAIL_SANDERS
 
-  - name: SERVER DB BACKUP
+  - name: SERVER DB BAK
     check: "tcp-ping"
     url: $SERVER_DB_BACKUP_SANDERS
     

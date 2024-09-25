@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-frontend",
     "status": "up",
-    "uptime": "82.22%",
-    "uptimeDay": "82.22%",
-    "uptimeWeek": "82.22%",
-    "uptimeMonth": "82.22%",
-    "uptimeYear": "82.22%",
-    "time": 4680,
-    "timeDay": 4680,
-    "timeWeek": 4680,
-    "timeMonth": 4680,
-    "timeYear": 4680,
+    "uptime": "83.44%",
+    "uptimeDay": "83.44%",
+    "uptimeWeek": "83.44%",
+    "uptimeMonth": "83.44%",
+    "uptimeYear": "83.44%",
+    "time": 4678,
+    "timeDay": 4678,
+    "timeWeek": 4678,
+    "timeMonth": 4678,
+    "timeYear": 4678,
     "dailyMinutesDown": {
       "2024-09-25": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2288,
-    "timeDay": 2288,
-    "timeWeek": 2288,
-    "timeMonth": 2288,
-    "timeYear": 2288,
+    "time": 2374,
+    "timeDay": 2374,
+    "timeWeek": 2374,
+    "timeMonth": 2374,
+    "timeYear": 2374,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 808,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "time": 810,
+    "timeDay": 810,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -128,6 +128,26 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "SERVER DB BACKUP",
+    "url": "147.139.186.128",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "server-db-backup",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-25": 102
+    }
+  },
+  {
     "name": "SERVER EMAIL",
     "url": "$SERVER_EMAIL_SANDERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -151,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "office-sanders",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-25": 96
+      "2024-09-25": 106
     }
   }
 ]

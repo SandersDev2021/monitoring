@@ -6,7 +6,7 @@ repo: monitoring # The name of this repository
 sites:
 # WEB APPLICATION
   - name: WEB FRONTEND 
-    url: ${{ vars.WEB_FRONTEND }}
+    url: $WEB_FRONTEND
   - name: OWNCLOUD
     url: https://owncloud.sanders.co.id
 status-website:

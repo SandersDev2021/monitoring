@@ -7,12 +7,6 @@ sites:
 # WEB APPLICATION
   - name: WEB FRONTEND 
     url: $WEB_FRONTEND_SANDERS
-    
-  - name: OWNCLOUD
-    url: $WEB_OWNCLOUD_SANDERS
-    
-  - name: WEBMAIL
-    url: $WEB_WEBMAIL_SANDERS
  
 # SERVER AND NETWORKK
   - name: SERVER DEVELOPMENT
@@ -30,6 +24,10 @@ sites:
   - name: SERVER STAGING
     check: "tcp-ping"
     url: $SERVER_STAGING_SANDERS
+
+  - name: SERVER OWNCLOUD
+    check: "tcp-ping"
+    url: $SERVER_OWNCLOUD_SANDERS
   
   - name: SERVER DRC
     check: "tcp-ping"

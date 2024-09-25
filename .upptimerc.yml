@@ -39,6 +39,10 @@ sites:
   - name: SERVER EMAIL
     check: "tcp-ping"
     url: $SERVER_EMAIL_SANDERS
+
+  - name: OFFICE SANDERS
+    check: "tcp-ping"
+    url: 103.176.227.196
   
     
 status-website:

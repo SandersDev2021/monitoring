@@ -38,7 +38,10 @@ sites:
   - name: OFFICE SANDERS
     check: "tcp-ping"
     url: $IP_PUBLIC_OFFICE_SANDERS
-    
+
+  - name: SERVER DB BACKUP
+    check: "tcp-ping"
+    url: $SERVER_DB_BACKUP_SANDERS
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

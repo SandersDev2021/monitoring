@@ -1,22 +1,22 @@
 [
   {
     "name": "WEB FRONTEND",
-    "url": "${{ vars.WEB_FRONTEND }}",
+    "url": "$WEB_FRONTEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-frontend",
     "status": "down",
-    "uptime": "93.78%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "93.78%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "93.78%",
+    "uptime": "29.32%",
+    "uptimeDay": "29.32%",
+    "uptimeWeek": "29.32%",
+    "uptimeMonth": "29.32%",
+    "uptimeYear": "29.32%",
     "time": 4451,
     "timeDay": 4451,
     "timeWeek": 4451,
     "timeMonth": 4451,
     "timeYear": 4451,
     "dailyMinutesDown": {
-      "2024-09-25": 0
+      "2024-09-25": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2020,
-    "timeDay": 2020,
-    "timeWeek": 2020,
-    "timeMonth": 2020,
-    "timeYear": 2020,
+    "time": 1902,
+    "timeDay": 1902,
+    "timeWeek": 1902,
+    "timeMonth": 1902,
+    "timeYear": 1902,
     "dailyMinutesDown": {}
   }
 ]

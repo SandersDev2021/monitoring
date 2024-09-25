@@ -34,6 +34,7 @@ sites:
   - name: SERVER DB BACKUP
     check: "tcp-ping"
     url: 147.139.186.128
+    port: 3306
     
   - name: SERVER EMAIL
     check: "tcp-ping"

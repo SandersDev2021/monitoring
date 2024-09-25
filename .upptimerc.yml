@@ -29,7 +29,7 @@ sites:
 
   - name: SERVER DB BACKUP
     check: "tcp-ping"
-    URL: "http://147.139.186.128"
+    URL: 147.139.186.128
   
   - name: SERVER DRC
     check: "tcp-ping"

@@ -18,7 +18,15 @@ sites:
   - name: SERVER DEVELOPMENT
     check: "tcp-ping"
     url: $SERVER_DEVELOPMENT_SANDERS
-    
+
+  - name: SERVER FRONTEND
+    check: "tcp-ping"
+    url: $SERVER_FRONTEND_SANDERS
+
+  - name: SERVER BACKEND
+    check: "tcp-ping"
+    url: $SERVER_BACKEND_SANDERS
+  
   - name: SERVER DRC
     check: "tcp-ping"
     url: $SERVER_DRC_SANDERS

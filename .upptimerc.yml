@@ -26,6 +26,10 @@ sites:
   - name: SERVER BACKEND
     check: "tcp-ping"
     url: $SERVER_BACKEND_SANDERS
+
+  - name: SERVER STAGING
+    check: "tcp-ping"
+    url: $SERVER_STAGING_SANDERS
   
   - name: SERVER DRC
     check: "tcp-ping"

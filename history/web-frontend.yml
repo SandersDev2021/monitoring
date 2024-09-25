@@ -1,7 +1,7 @@
-url: https://www.sanders.co.id
-status: up
-code: 200
-responseTime: 4451
-lastUpdated: 2024-09-25T02:26:02.126Z
+url: ${{ vars.WEB_FRONTEND }}
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-25T02:28:43.621Z
 startTime: 2024-09-25T02:25:57.668Z
 generator: Upptime <https://github.com/upptime/upptime>

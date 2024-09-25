@@ -41,7 +41,7 @@ sites:
 
   - name: OFFICE SANDERS
     check: "tcp-ping"
-    url: 103.176.227.196
+    url: $IP_PUBLIC_OFFICE_SANDERS
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

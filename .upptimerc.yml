@@ -17,6 +17,10 @@ sites:
     check: "tcp-ping"
     url: $SERVER_FRONTEND_SANDERS
 
+  - name: SERVER VPN NEW
+    check: "tcp-ping"
+    url: $SERVER_VPN_NEW_SANDERS
+
   - name: SERVER BACKEND
     check: "tcp-ping"
     url: $SERVER_BACKEND_SANDERS

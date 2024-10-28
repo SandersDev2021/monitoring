@@ -7,6 +7,9 @@ sites:
 # WEB APPLICATION
   - name: WEB FRONTEND 
     url: $WEB_FRONTEND_SANDERS
+
+  - name: test
+    url: detik.com
  
 # SERVER AND NETWORKK
   - name: SERVER DEVELOPMENT

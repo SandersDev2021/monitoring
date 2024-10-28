@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-vpn-new",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 238,
     "timeWeek": 238,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2024-10-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SERVER BACKEND",
@@ -222,7 +220,7 @@
     "slug": "office-sanders",
     "status": "up",
     "uptime": "59.76%",
-    "uptimeDay": "0.62%",
+    "uptimeDay": "0.63%",
     "uptimeWeek": "0.09%",
     "uptimeMonth": "58.01%",
     "uptimeYear": "59.76%",

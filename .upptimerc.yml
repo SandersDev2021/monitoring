@@ -45,6 +45,10 @@ sites:
     check: "tcp-ping"
     url: $SERVER_EMAIL_SANDERS
 
+  - name: SERVER API MOBILE
+    check: "tcp-ping"
+    url: $SERVER_API_MOBILE
+
   - name: OFFICE SANDERS
     check: "tcp-ping"
     url: $IP_PUBLIC_OFFICE_SANDERS

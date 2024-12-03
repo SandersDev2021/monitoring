@@ -24,18 +24,20 @@
     "url": "$SERVER_DEVELOPMENT_SANDERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 184,
     "timeWeek": 213,
     "timeMonth": 221,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 3
+    }
   },
   {
     "name": "SERVER FRONTEND",
@@ -92,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-12-03": 77,
+      "2024-12-03": 144,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -164,9 +166,9 @@
     "url": "$SERVER_STAGING_SANDERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -175,7 +177,9 @@
     "timeWeek": 213,
     "timeMonth": 221,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "SERVER OWNCLOUD",
@@ -275,11 +279,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "office-sanders",
     "status": "up",
-    "uptime": "80.51%",
+    "uptime": "80.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.51%",
+    "uptimeYear": "80.52%",
     "time": 239,
     "timeDay": 203,
     "timeWeek": 232,

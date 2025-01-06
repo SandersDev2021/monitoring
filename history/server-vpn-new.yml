@@ -1,7 +1,7 @@
 url: $SERVER_VPN_NEW_SANDERS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-05T23:17:15.362Z
+status: up
+code: 200
+responseTime: 452
+lastUpdated: 2025-01-06T01:21:25.724Z
 startTime: 2024-10-04T02:06:12.146Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -6,9 +6,9 @@
     "slug": "web-frontend",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 4591,
     "timeDay": 1785,
@@ -16,7 +16,7 @@
     "timeMonth": 4185,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2025-03-03": 2,
+      "2025-03-03": 4,
       "2024-09-25": 24
     }
   },
@@ -28,8 +28,8 @@
     "status": "up",
     "uptime": "46.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.77%",
-    "uptimeMonth": "23.09%",
+    "uptimeWeek": "65.79%",
+    "uptimeMonth": "23.10%",
     "uptimeYear": "46.67%",
     "time": 225,
     "timeDay": 241,
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-03-03": 73,
+      "2025-03-03": 75,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,

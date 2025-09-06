@@ -1,7 +1,7 @@
 url: $SERVER_STAGING_SANDERS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-05T23:20:30.987Z
+status: up
+code: 200
+responseTime: 238
+lastUpdated: 2025-09-06T11:36:27.627Z
 startTime: 2024-09-25T09:40:06.873Z
 generator: Upptime <https://github.com/upptime/upptime>

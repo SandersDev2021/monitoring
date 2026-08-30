@@ -1,7 +1,7 @@
 url: $IP_PUBLIC_OFFICE_SANDERS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-30T01:37:30.111Z
+status: up
+code: 200
+responseTime: 264
+lastUpdated: 2026-08-30T23:51:48.040Z
 startTime: 2024-09-25T07:05:22.549Z
 generator: Upptime <https://github.com/upptime/upptime>
